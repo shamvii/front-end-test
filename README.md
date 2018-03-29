@@ -2,13 +2,15 @@
 
 In order to successfully complete this exam, you will need to have node v6 or greater installed on your machine.
 
+* Fork this repository
+* Clone your forked version of the project
 * Install project dependencies: `npm i`
 * To start the application: `npm start`
 * To run the tests: `npm test`
 
 These are the only commands you should have to worry about. Running `npm start` will start a local webserver and you can access the page from [http://localhost:8080](http://localhost:8080)
 
-Once you are finished with the exam, please delete the node_modules directory, zip the folder, and email it to the exam coordinator.
+Once you are finished with the exam, please inform your coordinator (typically, a recruiter) of completion by sending them a link to your repo.
 
 ## Expectations
 
