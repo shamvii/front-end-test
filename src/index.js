@@ -6,3 +6,12 @@ import fetch from 'isomorphic-fetch';
 // remember that fetch uses promises.
 
 // step 2: implement the view and required behaviors
+
+import React from 'react';
+import ReactDOM from 'react-dom';
+import data from './pizza.json';
+import App from './App';
+import Loading from './Loading';
+ReactDOM.render(<App />, document.getElementById('app'));
+
+
